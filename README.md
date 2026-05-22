@@ -1,5 +1,8 @@
 
-sTicket Installation & Configuration Lab Guide
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/e1bde903-67b8-4be2-9b6c-699d10c71a98" />
+
+
+osTicket Installation & Configuration Lab Guide
 Complete hands-on lab for installing and configuring osTicket v1.15.8 on Windows 10 with Azure VM.
 
 📋 Table of Contents
